@@ -1,2 +1,1 @@
-# __repotemplate
-Template pour les nouvelles repos
+# SmartCom / Issues Only
